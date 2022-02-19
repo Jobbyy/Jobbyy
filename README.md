@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jobbyy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in hiring
+- 🌱 I’m currently learning how to find you
+- 💞️ I’m looking to collaborate on creating successful careers
 - 📫 How to reach me : hr@jobby.com
 
 <!---
